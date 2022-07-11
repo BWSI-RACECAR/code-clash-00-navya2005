@@ -22,7 +22,7 @@ class Solution:
         # return type: String
 
         # TODO: Write code below to return a string with the solution to the prompt
-        return "hello world"
+        return "Hello World!"
 
 def main():
     tc1 = Solution()
